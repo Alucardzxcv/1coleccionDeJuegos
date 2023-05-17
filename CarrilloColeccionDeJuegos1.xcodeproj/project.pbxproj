@@ -14,6 +14,7 @@
 		BAA1A7202A153978004659F0 /* CarrilloColeccionDeJuegos1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BAA1A71E2A153978004659F0 /* CarrilloColeccionDeJuegos1.xcdatamodeld */; };
 		BAA1A7222A153979004659F0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAA1A7212A153979004659F0 /* Assets.xcassets */; };
 		BAA1A7252A153979004659F0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BAA1A7232A153979004659F0 /* LaunchScreen.storyboard */; };
+		BAA1A72D2A154341004659F0 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA1A72C2A154341004659F0 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BAA1A7212A153979004659F0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BAA1A7242A153979004659F0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BAA1A7262A153979004659F0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BAA1A72C2A154341004659F0 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				BAA1A7172A153978004659F0 /* SceneDelegate.swift */,
 				BAA1A7192A153978004659F0 /* ViewController.swift */,
 				BAA1A71B2A153978004659F0 /* Main.storyboard */,
+				BAA1A72C2A154341004659F0 /* JuegosViewController.swift */,
 				BAA1A7212A153979004659F0 /* Assets.xcassets */,
 				BAA1A7232A153979004659F0 /* LaunchScreen.storyboard */,
 				BAA1A7262A153979004659F0 /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BAA1A72D2A154341004659F0 /* JuegosViewController.swift in Sources */,
 				BAA1A71A2A153978004659F0 /* ViewController.swift in Sources */,
 				BAA1A7202A153978004659F0 /* CarrilloColeccionDeJuegos1.xcdatamodeld in Sources */,
 				BAA1A7162A153978004659F0 /* AppDelegate.swift in Sources */,
